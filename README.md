@@ -10,7 +10,7 @@ _Create and run a GitHub Actions workflow._
 
 _Congratulations friend, you've completed this course!_
 
-<img src=https://octodex.github.com/images/jetpacktocat.png alt="Mona the Octocat wearing a jetpack and smiling." width=300 align=right>
+The shell script in the workflow will run whenever a new pull request is opened.:smile:_
 
 Here's a recap of all the tasks you've accomplished in your repository:
 
